@@ -1,0 +1,8 @@
+{
+  "name": "Copy of P2P Vision Analyzer",
+  "description": "A high-performance P2P video streaming application that leverages Gemini 3 Pro for advanced real-time video understanding and scene analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
